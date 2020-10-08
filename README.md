@@ -10,3 +10,8 @@ Para el desarrollo del curso se requiere de la **virtualización** de diferentes
 1. **[Windows 7](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)**
 1. **[Ubuntu 16.04](https://releases.ubuntu.com/16.04/)**
 1. **[Kali Linux](https://www.kali.org/downloads/)**
+1. **[Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)**
+## Software
+Estos se deberán instalar en la máquina virtual ***Kali Linux***
+1. **[IKY](https://kennbroorg.gitlab.io/ikyweb/)**
+1. **[Visual Code Studio](https://code.visualstudio.com/)**
