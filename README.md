@@ -13,8 +13,7 @@ Para el desarrollo del curso se requiere de la **virtualización** de diferentes
 1. **[Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)**
 ## Software
 + Estos se deberán instalar en la máquina virtual ***Kali Linux***
-    1. **[IKY](https://kennbroorg.gitlab.io/ikyweb/)**
-    1. **[Visual Code Studio](https://code.visualstudio.com/)**
-
+1. **[IKY](https://kennbroorg.gitlab.io/ikyweb/)**
+1. **[Visual Code Studio](https://code.visualstudio.com/)**
 + Este se deberá instalar en la máquina virtual ***Windows 7***
-    1. **[Easy File Management web Server](https://www.exploit-db.com/apps/a46371c665d7c85689b47534904bc3f1-efmsetup.exe)**
+1. **[Easy File Management web Server](https://www.exploit-db.com/apps/a46371c665d7c85689b47534904bc3f1-efmsetup.exe)**
