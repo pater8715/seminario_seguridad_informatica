@@ -19,4 +19,4 @@ Estos se deberán instalar en la máquina virtual ***Kali Linux***
 Este se deberá instalar en la máquina virtual ***Windows 7***
 + **[Easy File Management web Server](https://www.exploit-db.com/apps/a46371c665d7c85689b47534904bc3f1-efmsetup.exe)**
 ## Videos Recomen
-+ ** [Tipos de redes virtuales](https://www.youtube.com/watch?v=ulMcEhbqals)**
++ [Tipos de redes virtuales](https://www.youtube.com/watch?v=ulMcEhbqals)
