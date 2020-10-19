@@ -21,3 +21,5 @@ Este se deberá instalar en la máquina virtual ***Windows 7***
 ## Videos Recomendados
 + **[Networking VirtualBox](https://www.youtube.com/watch?v=ulMcEhbqals)**
 + **[Networking VmWare](https://www.youtube.com/watch?v=LkpjlZvPziw)**
++ **[Backup VirtualBox Machine](https://www.youtube.com/watch?v=_EzSSKV0CSY)**
++ **[Backup VmWare Machine](https://www.youtube.com/watch?v=Vdu0BPtFvM0)**
