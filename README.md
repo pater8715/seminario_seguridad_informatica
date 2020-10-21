@@ -11,11 +11,11 @@ Para el desarrollo del curso se requiere de la **virtualización** de diferentes
 + **[Ubuntu 16.04](https://releases.ubuntu.com/16.04/)**
 + **[Ubuntu 18.04](https://releases.ubuntu.com/18.04/)**
 + **[Kali Linux 2020.3](https://www.kali.org/downloads/)**
-+ **[Kali Linux 2019.4](http://cdimage.kali.org/kali-2019.4/)**
 + **[Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)**
 ## Software
 Estos se deberán instalar en la máquina virtual ***Kali Linux***
 + **[IKY](https://kennbroorg.gitlab.io/ikyweb/)**
++ **[Guía de instalación -> iKy Kali linux](https://www.youtube.com/watch?v=qJ_lGxuCC-U)**
 + **[Visual Code Studio](https://code.visualstudio.com/)**
 
 Este se deberá instalar en la máquina virtual ***Windows 7***
