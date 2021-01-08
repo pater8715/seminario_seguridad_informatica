@@ -10,7 +10,7 @@ Para el desarrollo del curso se requiere de la **virtualización** de diferentes
 + **[Windows 7](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)**
 + **[Ubuntu 16.04](https://releases.ubuntu.com/16.04/)**
 + **[Ubuntu 18.04](https://releases.ubuntu.com/18.04/)**
-+ **[Kali Linux 2020.3](https://www.kali.org/kali-linux-releases/)**
++ **[Kali Linux 2020.3](http://cdimage.kali.org/kali-2020.3/)**
 + **[Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)**
 ## Software
 Estos se deberán instalar en la máquina virtual ***Kali Linux***
